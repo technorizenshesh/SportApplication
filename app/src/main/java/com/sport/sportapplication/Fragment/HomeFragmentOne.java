@@ -29,6 +29,7 @@ public class HomeFragmentOne extends Fragment {
 
    private View view;
    CardView card_news;
+
    CardView card_teams;
    CardView card_chat;
    CardView cardStanding;
